@@ -32,7 +32,7 @@ const Aboutpage = () => {
                        I am result oriented and looking forward to working on interesting projects and also advance my career.
                     
            </p>
-           <a href='IFEOMA OBODOZIE TECH.docx' download > <button>Download CV <i className="fa-solid fa-cloud-arrow-down"></i>
+           <a href='OBODOZIE IFEOMA TECH CV.pdf' download > <button>Download CV <i className="fa-solid fa-cloud-arrow-down"></i>
            </button></a>
            </div>
 
